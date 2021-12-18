@@ -21,7 +21,9 @@ function App() {
             matek pszczelich
           </p>
         </div>
-        <img className="header_logo" src={header_logo}></img>
+        <div className="header_logo">
+          <img src={header_logo}></img>
+        </div>
       </div>
       <div className="content">
         <div className="card">
@@ -37,12 +39,12 @@ function App() {
             <p>Skręcony i doskonalony ręcznie </p>
           </div>
           <div className="image_item">
-            <img src={diy}></img>
+            <img src={printer_3d}></img>
           </div>
         </div>
         <div className="card">
           <div className="image_item">
-            <img src={queen_bee}></img>
+            <img src={printer_3d}></img>
           </div>
           <div className="item">
             <p>
