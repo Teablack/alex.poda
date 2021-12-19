@@ -95,6 +95,7 @@
 .footer {
     background-color: #c4c4c4;
     min-height: 100px;
+    margin-top: 10px;
 }
 
 .card:nth-child(even) {
