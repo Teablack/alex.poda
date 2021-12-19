@@ -3,7 +3,7 @@ import queen_bee from "./res/queen_bee.png";
 import diy from "./res/diy.png";
 import Card from "./Card";
 export default function Content() {
-  const CardItems = elements.map((el) => <Card {...el} />);
+  const CardItems = elements.map((el) => <Card key={el.id} {...el} />);
   return <div className="content">{CardItems}</div>;
 }
 
