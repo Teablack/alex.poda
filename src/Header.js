@@ -1,4 +1,4 @@
-import header_logo from "./res/1.jpg";
+import logo from "./res/logo.png";
 export default function Header() {
   return (
     <div className="header">
@@ -10,7 +10,7 @@ export default function Header() {
         </p>
       </div>
       <div className="header_logo">
-        <img src={header_logo}></img>
+        <img src={logo}></img>
       </div>
     </div>
   );
