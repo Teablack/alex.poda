@@ -96,3 +96,20 @@
     background-color: #c4c4c4;
     min-height: 100px;
 }
+
+.card:nth-child(even) {
+    flex-wrap: wrap-reverse;
+}
+
+@media only screen and (max-width: 600px) {
+    .header_logo>img {
+        width: 350px;
+        height: auto;
+    }
+    .header_text {
+        font-size: 40px;
+        flex-grow: 1;
+        padding: 10px;
+        text-align: center;
+    }
+}
