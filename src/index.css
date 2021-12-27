@@ -51,7 +51,7 @@
 }
 
 .header {
-    background-color: #f6f3e7;
+    background-color: #808080;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -66,8 +66,8 @@
 }
 
 .image_item>img {
-    width: 250px;
-    height: auto;
+    /* width: 250px; */
+    /* height: auto; */
 }
 
 .header_text {
@@ -96,7 +96,7 @@
 }
 
 .gallery>img {
-    width: 400px;
+    width: 350px;
     height: auto;
     margin: 10px;
     border: solid black 1px;
