@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/alex.poda/static/css/main.65647ceb.css",
+    "main.css": "/alex.poda/static/css/main.60a5e11c.css",
     "main.js": "/alex.poda/static/js/main.5433c9a4.js",
     "static/js/787.148e8920.chunk.js": "/alex.poda/static/js/787.148e8920.chunk.js",
     "static/media/logo.png": "/alex.poda/static/media/logo.1d685ed0768722584e70.png",
@@ -16,12 +16,12 @@
     "static/media/queen_bee.png": "/alex.poda/static/media/queen_bee.54b47919abd7ed931c0e.png",
     "static/media/beekeeper.png": "/alex.poda/static/media/beekeeper.da10d9f1a4b4e3d7bddb.png",
     "index.html": "/alex.poda/index.html",
-    "main.65647ceb.css.map": "/alex.poda/static/css/main.65647ceb.css.map",
+    "main.60a5e11c.css.map": "/alex.poda/static/css/main.60a5e11c.css.map",
     "main.5433c9a4.js.map": "/alex.poda/static/js/main.5433c9a4.js.map",
     "787.148e8920.chunk.js.map": "/alex.poda/static/js/787.148e8920.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65647ceb.css",
+    "static/css/main.60a5e11c.css",
     "static/js/main.5433c9a4.js"
   ]
 }
