@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alex.poda/static/css/main.cc30bb68.css",
-    "main.js": "/alex.poda/static/js/main.b9c02dd4.js",
+    "main.css": "/alex.poda/static/css/main.ece33dc0.css",
+    "main.js": "/alex.poda/static/js/main.bd120e4c.js",
     "static/js/787.148e8920.chunk.js": "/alex.poda/static/js/787.148e8920.chunk.js",
     "static/media/logo.png": "/alex.poda/static/media/logo.1d685ed0768722584e70.png",
     "static/media/8.jpg": "/alex.poda/static/media/8.9e60911ec302f81f3c05.jpg",
@@ -16,12 +16,12 @@
     "static/media/queen_bee.png": "/alex.poda/static/media/queen_bee.54b47919abd7ed931c0e.png",
     "static/media/beekeeper.png": "/alex.poda/static/media/beekeeper.da10d9f1a4b4e3d7bddb.png",
     "index.html": "/alex.poda/index.html",
-    "main.cc30bb68.css.map": "/alex.poda/static/css/main.cc30bb68.css.map",
-    "main.b9c02dd4.js.map": "/alex.poda/static/js/main.b9c02dd4.js.map",
+    "main.ece33dc0.css.map": "/alex.poda/static/css/main.ece33dc0.css.map",
+    "main.bd120e4c.js.map": "/alex.poda/static/js/main.bd120e4c.js.map",
     "787.148e8920.chunk.js.map": "/alex.poda/static/js/787.148e8920.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc30bb68.css",
-    "static/js/main.b9c02dd4.js"
+    "static/css/main.ece33dc0.css",
+    "static/js/main.bd120e4c.js"
   ]
 }
