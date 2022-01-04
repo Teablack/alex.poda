@@ -1,4 +1,4 @@
-import printer_3d from "./res/printer_3d.png";
+import printer_3D from "./res/printer_3D.png";
 import queen_bee from "./res/queen_bee.png";
 import beekeeper from "./res/beekeeper.png";
 import diy from "./res/diy.png";
@@ -12,7 +12,7 @@ const elements = [
   {
     id: 0,
     description: "Wykonany został metodą druku 3D",
-    image: printer_3d,
+    image: printer_3D,
   },
   {
     id: 1,
