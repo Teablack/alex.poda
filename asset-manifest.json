@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/alex.poda/static/css/main.60a5e11c.css",
-    "main.js": "/alex.poda/static/js/main.5433c9a4.js",
+    "main.js": "/alex.poda/static/js/main.26c44c45.js",
     "static/js/787.148e8920.chunk.js": "/alex.poda/static/js/787.148e8920.chunk.js",
     "static/media/logo.png": "/alex.poda/static/media/logo.1d685ed0768722584e70.png",
     "static/media/8.jpg": "/alex.poda/static/media/8.9e60911ec302f81f3c05.jpg",
@@ -17,11 +17,11 @@
     "static/media/beekeeper.png": "/alex.poda/static/media/beekeeper.da10d9f1a4b4e3d7bddb.png",
     "index.html": "/alex.poda/index.html",
     "main.60a5e11c.css.map": "/alex.poda/static/css/main.60a5e11c.css.map",
-    "main.5433c9a4.js.map": "/alex.poda/static/js/main.5433c9a4.js.map",
+    "main.26c44c45.js.map": "/alex.poda/static/js/main.26c44c45.js.map",
     "787.148e8920.chunk.js.map": "/alex.poda/static/js/787.148e8920.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60a5e11c.css",
-    "static/js/main.5433c9a4.js"
+    "static/js/main.26c44c45.js"
   ]
 }
